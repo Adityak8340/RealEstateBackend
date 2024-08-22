@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+groq
+pydantic
+httpx
+python-dotenv
+fastapi-limiter
+redis
+aioredis
+pydantic_settings
+fastapi-cors
