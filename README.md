@@ -1,3 +1,10 @@
+# Sample
+
+
+https://github.com/user-attachments/assets/0fd8fcf1-e2a5-4753-acd4-742413304968
+
+
+
 # 🏠 Real Estate Project Analysis App 📊
 
 Welcome to the Real Estate Project Analysis App! This web application provides comprehensive insights into real estate projects using data from various APIs including Foursquare, OpenWeatherMap, and Groq AI.
