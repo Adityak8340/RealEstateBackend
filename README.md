@@ -26,7 +26,4 @@ Welcome to the Real Estate Project Analysis App! This web application provides c
 - [OpenWeatherMap API](https://openweathermap.org/api)
 - [Groq AI](https://www.groq.ai/)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-EOF
+### Thank You!
